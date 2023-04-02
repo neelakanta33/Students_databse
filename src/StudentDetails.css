@@ -1,0 +1,66 @@
+.form {
+    background-color: lightblue;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+.form input {
+    padding: 10px 10px;
+    padding-right: 50px;
+    margin: 10px 10px;
+    border: 0;
+    border-radius: 5px;
+}
+
+.block {
+    background-color: black;
+    width: 450px;
+    padding: auto;
+    display: block;
+    margin: 100px 0px;
+    color: white;
+    padding-bottom: 30px;
+    box-shadow: 10px 10px 8px rgb(85, 82, 82);
+    border-radius: 10px;
+}
+
+.block button {
+    padding: 10px 20px;
+    background-color: white;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.studentdetails {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+/* table */
+
+.table {
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+    padding: 20px 20px;
+}
+
+#delete {
+    background-color: red;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 10px;
+}
+
+#update {
+    background-color: green;
+    color: white;
+    padding: 8px 25px;
+    border-radius: 10px;
+}

@@ -1,0 +1,12 @@
+{
+    "details": [{
+        "name": "sonu",
+        "branch": "ece"
+    }, {
+        "name": "jack",
+        "branch": "cse"
+    }, {
+        "name": "tom",
+        "branch": "ece"
+    }]
+}
